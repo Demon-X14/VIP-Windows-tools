@@ -20,11 +20,10 @@
 
 > 9 ----->>>   ((  IP LOGGER  ))
 
-> 10 ----->>>   ((  PY & BATCH (source codes)  ))
+> 10 ----->>>   ((  ATTRIB FILES  ))
 
-> 11 ----->>>   ((  VIP ARAB GAMERS  DISCORD   ))
+> 11 ----->>>   ((  PY & BATCH (source codes)  ))
 
-> 12 ----->>>   ((  YOUTUBE CHANNAL  ))
 
 ## Download The File From [Release](https://github.com/KillerBan/VIP-Batch-Tools/releases) 
 
