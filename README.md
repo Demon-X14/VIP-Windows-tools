@@ -31,4 +31,4 @@
 
 This Tools May have Errors and If There is Any Errors You Can [Contact Us Here On Discord](https://discord.gg/3svxC3UyGS)
 
-Thanks For  Using the Tool
+Thanks For  Using the Tool.
